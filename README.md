@@ -16,7 +16,7 @@ his house (if he had one).
 - Forking other people's projects which can take care of some pretty difficult commands that may be
   hard for beginners of git to wrap their heads around)
 - Increase productivity allow you to spend more time writing code vs asking ai or the internet for
-  a solution. 
+  a solution when were talking about git commands
 - Zipping up projects into zstd or 7zip formats when diskspace is wanted or needed.
 - Moving projects to USB drives whenever you need to peform a move
   (Concept is simillar to moving houses.)
